@@ -4,3 +4,5 @@ creational/03.test-data-builder-object-mother/node_modules
 behavioral/01.strategy/node_modules
 behavioral/02.observer/node_modules
 behavioral/02.observer/coverage
+behavioral/03.template-method/node_modules
+behavioral/03.template-method/coverage
