@@ -6,3 +6,5 @@ behavioral/02.observer/node_modules
 behavioral/02.observer/coverage
 behavioral/03.template-method/node_modules
 behavioral/03.template-method/coverage
+behavioral/04.decorator-middleware/node_modules
+behavioral/04.decorator-middleware/coverage
